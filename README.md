@@ -119,6 +119,8 @@ SOSEx, Steve Johnson [Download](http://www.stevestechspot.com/)- extension for W
 
 msos, Sasha Goldshtein [Github](https://github.com/goldshtn/msos) - .NET command line debugger; alternative for WinDbg + SOS; MIT license
 
+soswow64, poizan42 [Github](https://github.com/poizan42/soswow64) - Patch processor information so that SOS works on 64 bit dumps of 32 bit applications
+
 ### WPF
 
 Snoop [Github](https://github.com/snoopwpf/snoopwpf) - WPF spy, Visual inspector, MS-PL license
